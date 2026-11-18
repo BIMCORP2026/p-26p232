@@ -1,0 +1,119 @@
+{
+ "region": {
+  "households": 1259329,
+  "renter_pct": 30.8,
+  "burden_pct": 48.0,
+  "rent_wavg": 1436,
+  "tracts": 784
+ },
+ "corridors": {
+  "A Line": {
+   "households": 21602,
+   "renter_pct": 38.7,
+   "burden_pct": 48.7,
+   "rent_wavg": 1270,
+   "tracts": 33,
+   "mode": "Arterial Bus Rapid Transit",
+   "stations": 20
+  },
+  "B Line": {
+   "households": 50715,
+   "renter_pct": 62.0,
+   "burden_pct": 44.2,
+   "rent_wavg": 1347,
+   "tracts": 62,
+   "mode": "Arterial Bus Rapid Transit",
+   "stations": 40
+  },
+  "Blue Line": {
+   "households": 28669,
+   "renter_pct": 63.7,
+   "burden_pct": 45.5,
+   "rent_wavg": 1395,
+   "tracts": 35,
+   "mode": "Light Rail",
+   "stations": 19
+  },
+  "C Line": {
+   "households": 29329,
+   "renter_pct": 55.7,
+   "burden_pct": 49.8,
+   "rent_wavg": 1429,
+   "tracts": 36,
+   "mode": "Arterial Bus Rapid Transit",
+   "stations": 25
+  },
+  "D Line": {
+   "households": 52008,
+   "renter_pct": 50.8,
+   "burden_pct": 50.3,
+   "rent_wavg": 1333,
+   "tracts": 68,
+   "mode": "Arterial Bus Rapid Transit",
+   "stations": 49
+  },
+  "E Line": {
+   "households": 56419,
+   "renter_pct": 67.0,
+   "burden_pct": 46.1,
+   "rent_wavg": 1451,
+   "tracts": 57,
+   "mode": "Arterial Bus Rapid Transit",
+   "stations": 40
+  },
+  "Gold Line": {
+   "households": 19161,
+   "renter_pct": 53.6,
+   "burden_pct": 52.8,
+   "rent_wavg": 1415,
+   "tracts": 30,
+   "mode": "Dedicated Bus Rapid Transit",
+   "stations": 20
+  },
+  "Green Line": {
+   "households": 40276,
+   "renter_pct": 70.7,
+   "burden_pct": 51.0,
+   "rent_wavg": 1397,
+   "tracts": 50,
+   "mode": "Light Rail",
+   "stations": 23
+  },
+  "Northstar": {
+   "households": 7540,
+   "renter_pct": 60.8,
+   "burden_pct": 35.8,
+   "rent_wavg": 1763,
+   "tracts": 17,
+   "mode": "Commuter Rail",
+   "stations": 7
+  },
+  "Orange Line": {
+   "households": 29069,
+   "renter_pct": 62.9,
+   "burden_pct": 44.7,
+   "rent_wavg": 1428,
+   "tracts": 50,
+   "mode": "Highway Bus Rapid Transit",
+   "stations": 16
+  },
+  "Red Line": {
+   "households": 5174,
+   "renter_pct": 44.6,
+   "burden_pct": 50.6,
+   "rent_wavg": 1653,
+   "tracts": 14,
+   "mode": "Highway Bus Rapid Transit",
+   "stations": 6
+  },
+  "West 7th": {
+   "households": 7057,
+   "renter_pct": 74.6,
+   "burden_pct": 51.9,
+   "rent_wavg": 1471,
+   "tracts": 13,
+   "mode": "Other",
+   "stations": 9
+  }
+ }
+}
